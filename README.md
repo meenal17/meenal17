@@ -11,12 +11,13 @@ or use it. It helps me a lot.
 </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=#0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Meenal +Vishwakarma;+the+Web3+ Virtuoso: +🕵;+Pioneering+The+Blockchain+Revolution+,Elevating+,Ethereum + ,Crafting + Smart Contracts+✨;+and+Illuminating+DApps+for+a+Decentralized+Tomorrow⌚;">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=EF78F7&center=true&vCenter=true&width=435&lines=Meenal+Vishwakarma%2C+the+Web3+Virtuoso%3A+Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;">
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-Hey👋, I'm Meenal Vishwakarma, a Tech Evangelist with a Curious Mind and Crisp Thinking who visions to foster the Next Generation. <br>
+Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Crisp Thinking who visions to foster the Next Generation. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
   
@@ -96,23 +97,35 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
  
 ## Technical Skills ✔
 
-![Web3](https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)&nbsp;
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
+![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;
+![KeilUVision](https://img.shields.io/badge/-KeilUVision-05122A?style=flat&logo=keiluvision&logoColor=007ACC)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&logoColor=1572B6)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure&logoColor=1572B6)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Docklight](https://img.shields.io/badge/-Docklight-05122A?style=flat&logo=docklight)&nbsp;\
 ![Internet Of Things](https://img.shields.io/badge/-Internet%20Of%20Things-05122A?style=flat&logo=Internet-Of-Things&logoColor=007ACC)&nbsp;
 ![Embedded System](https://img.shields.io/badge/-Embedded%20System-05122A?style=flat&logo=Embedded-System&logoColor=1572B6)&nbsp;
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;\
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)&nbsp;
-
-
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 
 
 ## Contributions Space 🎲
