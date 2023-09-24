@@ -12,7 +12,7 @@ or use it. It helps me a lot.
   
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=EF78F7&center=true&vCenter=true&width=435&lines=Meenal+Vishwakarma%2C+the+Web3+Virtuoso%3A+Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;">
+  <img src="https://readme-typing-svg.herokuapp.com?Code&weight=600&pause=1000&color=EF78F7&center=true&vCenter=true&width=435&lines=Meenal+Vishwakarma%2C+the+Web3+Virtuoso%3A+Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;">
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
