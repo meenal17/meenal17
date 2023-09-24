@@ -11,7 +11,7 @@ or use it. It helps me a lot.
 </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Meenal +Vishwakarma;+the+Web3+ Virtuoso: +🕵;+Pioneering+The+Blockchain+Revolution+,Elevating+,Ethereum + ,Crafting + Smart Contracts+✨;+and+Illuminating+DApps+for+a+Decentralized+Tomorrow⌚;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=#0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Meenal +Vishwakarma;+the+Web3+ Virtuoso: +🕵;+Pioneering+The+Blockchain+Revolution+,Elevating+,Ethereum + ,Crafting + Smart Contracts+✨;+and+Illuminating+DApps+for+a+Decentralized+Tomorrow⌚;">
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
