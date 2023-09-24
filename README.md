@@ -16,7 +16,7 @@ or use it. It helps me a lot.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-Hey👋, I'm Prathima Kadari, a Tech Evangelist with a Curious Mind and Crisp Thinking who visions to foster the Next Generation. <br>
+Hey👋, I'm Meenal, a Tech Evangelist with a Curious Mind and Crisp Thinking who visions to foster the Next Generation. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
   
