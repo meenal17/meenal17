@@ -10,8 +10,8 @@ or use it. It helps me a lot.
 <img src = "https://github.com/meenal17/meenal17/blob/main/Banner_git.png"/>
 </p>
   
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=600&size=30&pause=1000&color=EF78F7&width=500&height=200&lines=Meenal+Vishwakarma%2C+the+Web3+Virtuoso%3A+Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;">
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=FF871B&width=435&lines=Meenal+Vishwakarma%2C+the+Web3+Virtuoso%3A+Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;">
 </p> 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
