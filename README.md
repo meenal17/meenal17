@@ -27,11 +27,11 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 ### Know Me🤝
 
-#### [Linkedin](https://www.linkedin.com/in/dev-mv) | [LinkTree](https://linktr.ee/mv.dev) |
+#### [Linkedin](https://www.linkedin.com/in/dev-mv) | [LinkTree](https://linktr.ee/mv.dev)
   
 </td>
   
-<td valign="top" width="60%">
+<td valign="top" width="80%">
 
 ### Sponsor Me💰
 
@@ -41,7 +41,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 </tr></table> 
 
-CheckOut Links : [LinkTree](https://linktr.ee/mv.dev) | [Resume]()
+CheckOut Links : [LinkTree](https://linktr.ee/mv.dev) | [Resume](https://github.com/meenal17/meenal17/blob/main/meenal-cv-2yr%2B.pdf)
 
 2022 Goals  
 
@@ -50,7 +50,7 @@ CheckOut Links : [LinkTree](https://linktr.ee/mv.dev) | [Resume]()
 
 ### Does my work excite you? <br>
 
-You can sponsor 💰 me on my [[Buy Me A Coffee](https://ko-fi.com/devmeenal) profile. <br>
+You can sponsor 💰 me on my [Buy Me A Coffee](https://ko-fi.com/devmeenal) profile. <br>
   
 You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/dev.meenal) 
 
