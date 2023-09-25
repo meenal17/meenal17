@@ -27,7 +27,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 ### Know Me🤝
 
-#### [Linkedin]() | [LinkTree]() |
+#### [Linkedin](https://www.linkedin.com/in/dev-mv) | [LinkTree](https://linktr.ee/mv.dev) |
   
 </td>
   
@@ -35,13 +35,13 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 ### Sponsor Me💰
 
-####  [Buy Me A Pizza🍕](https://www.buymeacoffee.com/prathimakadari)
+####  [Buy Me A Pizza🍕](https://www.buymeacoffee.com/dev.meenal)
   
 </td>
 
 </tr></table> 
 
-CheckOut Links : [LinkTree]() | [Resume]()
+CheckOut Links : [LinkTree](https://linktr.ee/mv.dev) | [Resume]()
 
 2022 Goals  
 
