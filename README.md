@@ -27,7 +27,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 ### Know Me🤝
 
-#### [Portfolio]() | [LinkTree]() | [Resume]()
+#### [Linkedin]() | [LinkTree]() |
   
 </td>
   
@@ -35,7 +35,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 
 ### Sponsor Me💰
 
-#### [Patreon]() | [Buy Me A Pizza🍕](https://www.buymeacoffee.com/prathimakadari)
+####  [Buy Me A Pizza🍕](https://www.buymeacoffee.com/prathimakadari)
   
 </td>
   
@@ -44,7 +44,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 </td>
 </tr></table> 
 
-CheckOut Links : [Portfolio]() | [LinkTree]() | [Resume]()
+CheckOut Links : [LinkTree]() | [Resume]()
 
 2022 Goals  
 
