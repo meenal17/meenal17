@@ -88,7 +88,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<img align="right" height="250" src = "https://github.com/meenal17/meenal17/blob/main/skills(2).gif">
+<img align="right" height="250" src = "https://github.com/meenal17/meenal17/blob/main/dev_skill.gif">
  
 ## Technical Skills ✔
 
