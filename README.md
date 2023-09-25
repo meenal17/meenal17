@@ -50,15 +50,14 @@ CheckOut Links : [LinkTree](https://linktr.ee/mv.dev) | [Resume]()
 
 ### Does my work excite you? <br>
 
-You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br>
+You can sponsor 💰 me on my [[Buy Me A Coffee](https://ko-fi.com/devmeenal) profile. <br>
   
-You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/prathimakadari) 
+You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/dev.meenal) 
 
 🛠My Earlier Sprint of Work Experience was with Analogics Group as a Research and Development Engineer and Inphinity Software Solutions as an Embedded Engineer. <br>
 
 ### My Highlights
 
-🍁Building a Next Gen B2B & B2C Sustainable SaaS platform and Product Lead / Chapter Co-Lead / Lead ML Enginneer at Omdena. <br>
 📰Project Featured on Streamlit, CTO at Pendler and awarded as Top 10 CTO's in India for Women Entreprenuer Magazine. <br>
 📜Top Project : IoT-Spot at Social Summer Of Code, Best Project Admin at GirlScript Summer Of Code, Best Mentor at OpenCode, Best Mentor at JGEC Winter Of Code, Top #1 Mentee at WIE Winter Of Code, Best Mentor at Delta Winter Of Code and Best Supervisor at GirlScript Winter Of Contributing.<br>
 🚩KeyNote Speaker, Jury Member and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
@@ -84,7 +83,7 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
 ▶️ Shoot me an email at kadariprathima4@gmail.com for official discussions. <br>
-▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/), [Twitter](https://twitter.com/prathimak88) and [Discord](https://discordapp.com/users/797471610327924778). <br>
+▶️ Find me on [LinkedIn](https://www.linkedin.com/in/dev-mv/) <br>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -93,30 +92,17 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
  
 ## Technical Skills ✔
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
-![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;
-![KeilUVision](https://img.shields.io/badge/-KeilUVision-05122A?style=flat&logo=keiluvision&logoColor=007ACC)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&logoColor=1572B6)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure&logoColor=1572B6)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
-![Docklight](https://img.shields.io/badge/-Docklight-05122A?style=flat&logo=docklight)&nbsp;\
 ![Internet Of Things](https://img.shields.io/badge/-Internet%20Of%20Things-05122A?style=flat&logo=Internet-Of-Things&logoColor=007ACC)&nbsp;
-![Embedded System](https://img.shields.io/badge/-Embedded%20System-05122A?style=flat&logo=Embedded-System&logoColor=1572B6)&nbsp;
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;\
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
@@ -145,16 +131,6 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
  <a href="https://sawolabs.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Contributions/SAWO%20Labs/SAWO%20Labs%20Logo.png" height="60px"></a>
  <a href="https://omdena.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Omdena%20Projects/Omdena%20Logo.png" height="60px"></a> 
 </p> 
-
-
-## Open Source Projects-Open for Contributions 🥇 
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
-| Project:octocat: | Stars✨| Forks🍴 | Issues🐛 | Open PRs:bell: | Closed PRs:fire: | Participated In |
-|-------------|-------------------|---|---|---|---|---|
-| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) | 2022 - [**GSSOC**](https://gssoc.girlscript.tech/) <br> 2021 - [**SWOC**](https://swoc.scriptindia.org/#/) & [**DWOC**](https://dwoc.io/) |
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # 📊 GitHub Statistics:
 
