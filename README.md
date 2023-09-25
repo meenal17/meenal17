@@ -10,7 +10,7 @@ or use it. It helps me a lot.
 <img src = "https://github.com/meenal17/meenal17/blob/main/Banner_git.png"/>
 </p>
   
-<p>
+<p >
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=FF871B&width=435&lines=Meenal+Vishwakarma%2C+the+Web3+Virtuoso%3A+Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Pioneering+the+Blockchain+Revolution%2C+Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;Elevating+Ethereum%2C+Crafting+Smart+Contracts%2C+and+Illuminating+DApps+for+a+Decentralized+Tomorrow!;">
 </p> 
 
@@ -20,7 +20,7 @@ Hey👋, I'm Meenal Vishwakarma, Passionate about Web3 and blockchain, specializ
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
   
-<!-- ## You Like What You See? Does It Excite You? 💪 <br>
+ ## You Like What You See? Does It Excite You? 💪 <br>
   
 <table><tr>
 <td valign="top" width="60%">
@@ -42,20 +42,20 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 <td valign="top" width="60%">
   
 </td>
-</tr></table> -->
+</tr></table> 
 
-<!-- CheckOut Links : [Portfolio]() | [LinkTree]() | [Resume]()
+CheckOut Links : [Portfolio]() | [LinkTree]() | [Resume]()
 
 2022 Goals  
 
-[You like what you see? Nominate Me asa GitHub Star]() -->
+[You like what you see? Nominate Me asa GitHub Star]
   
-<!--
+
 ### Does my work excite you? <br>
 
 You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br>
   
-You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/prathimakadari) -->
+You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/prathimakadari) 
 
 🛠My Earlier Sprint of Work Experience was with Analogics Group as a Research and Development Engineer and Inphinity Software Solutions as an Embedded Engineer. <br>
 
