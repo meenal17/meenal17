@@ -38,10 +38,7 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 ####  [Buy Me A Pizza🍕](https://www.buymeacoffee.com/prathimakadari)
   
 </td>
-  
-<td valign="top" width="60%">
-  
-</td>
+
 </tr></table> 
 
 CheckOut Links : [LinkTree]() | [Resume]()
@@ -160,12 +157,47 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## GitHub Statistics 📃
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+## 📊 GitHub Statistics
+<table>
+<tr>
+<td>
+<a href="https://github.com/omololevy/omololevy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omololevy&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+</td>
+<td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast&layout=compact" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omololevy"/>
+</td>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omololevy"/>
+</td>
+</tr>
+
+<tr>
+<tr>
+        <th colspan="7"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+      </tr>
+<td align="center">
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+
+
+</td>
+<td align="center">
+<p align="center">
 </p>
+            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
+</td>
+</tr>
+</table>
 
 
 ## Trophies 🏆
