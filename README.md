@@ -16,7 +16,7 @@ or use it. It helps me a lot.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-Hey👋, I'm Meenal Vishwakarma, Passionate about Web3 and blockchain, specializing in React.js, Ethereum, Web3, and Node.js API developer at Nadcab Technology. Proficient in smart contracts, dApps, and Web3 integration, I create seamless user experiences at the intersection of blockchain and the web. Trusted to build decentralized solutions for the future. <br>
+Hey👋, I'm Meenal Vishwakarma, Passionate about Web3 and blockchain, specializing in React.js, Ethereum, Web3, and Node.js API developer at*[Nadcab Technology](https://www.nadcab.com/)*. Proficient in smart contracts, dApps, and Web3 integration, I create seamless user experiences at the intersection of blockchain and the web. Trusted to build decentralized solutions for the future. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
   
