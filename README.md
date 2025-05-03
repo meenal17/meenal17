@@ -82,7 +82,7 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
-▶️ Shoot me an email at kadariprathima4@gmail.com for official discussions. <br>
+▶️ Shoot me an email at meenalvishwakarma34@gmail.com for official discussions. <br>
 ▶️ Find me on [LinkedIn](https://www.linkedin.com/in/dev-mv/) <br>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -100,42 +100,16 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Internet Of Things](https://img.shields.io/badge/-Internet%20Of%20Things-05122A?style=flat&logo=Internet-Of-Things&logoColor=007ACC)&nbsp;
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;\
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
-![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 
 
-## Contributions Space 🎲
-
-<p align="center">
- <a href="https://letsgrowmore.in/soc/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/LetsGrowMore%20Summer%20Of%20Code%202021/LetsGrowMore%20Summer%20Of%20Code.jpg" height="60px"></a>
- <a href="https://contribute.devincept.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/DevIncept%20Codes%202021/DevIncept.jpg" height="60px"></a>
- <a href="https://hacktoberfest.digitalocean.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202021/Hacktoberfest-2021.jpg" height="60px"></a>
- <a href="https://gwoc.girlscript.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Winter%20Of%20Contributing%202021/Girlscript%20Winter%20of%20Contributing.png" height="60px"></a>
- <a href="https://dwoc.io/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Delta%20Winter%20Of%20Code%202021/Delta-Winter-Of-Code.jpg" height="60px"></a>
- <a href="https://jwoc.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/JGEC%20Winter%20Of%20Code%202022/JGEC-Winter-Of-Code.jpg" height="60px"></a>
- <a href="https://www.openforce.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/CodeFlow%20OpenForce%202022/CodeFlow%20OpenForce%20Logo.png" height="60px"></a>
- <a href="https://wie.ieee.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/WIE%20Winter%20Of%20Code%202022/WIE%20WOC%20Logo.png" height="60px"></a>
- <a href="https://csirait.in/opencode/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/OpenCode%20CSIRAIT%202022/OpenCode%20Logo.png" height="60px"></a> 
- <a href="https://gssoc.girlscript.tech/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/GirlScript%20Summer%20Of%20Code%202022/GirlScript%20Summer%20Of%20Code%20Logo.png" height="60px"></a> <br
- <a href="https://soc.hackclubrait.co/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/HackClub%20RAIT%20Summer%20Of%20Code%202022/HackClub%20RAIT%20Summer%20Of%20Code.png" height="60px"></a> 
- <a href="https://ssoc.devfolio.co/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Social%20Summer%20Of%20Code%202022/Social%20Summer%20Of%20Code.gif" height="60px"></a>
- <a href="https://hacktoberfest.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Hacktoberfest%202022/Hacktoberfest%20Logo%202022.png" height="60px"></a>
- <a href="https://swoc.getsocialnow.co/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/Social%20Winter%20Of%20Code%202022/Social-Winter-Of-Code-Logo.png" height="60px"></a>
- <a href="https://www.eddiehub.org/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Communities/EddieHub%20Community/EddieHub%20Logo.png" height="60px"></a>
- <a href="https://sawolabs.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Contributions/SAWO%20Labs/SAWO%20Labs%20Logo.png" height="60px"></a>
- <a href="https://omdena.com/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Omdena%20Projects/Omdena%20Logo.png" height="60px"></a> 
-</p> 
 
 # 📊 GitHub Statistics:
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/meenal_sharma017) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meenal-vishwakarma-9407a01b3) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/meenal_sharma017) [![LinkedIn](https://www.linkedin.com/in/dev-mv)] 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
